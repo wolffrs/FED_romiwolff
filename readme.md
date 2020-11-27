@@ -38,7 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Flexbox gebruiken ging best soepel! Was wel even uitzoeken. Dingen centeren lukt me minder goed helaas
+
+<img src="img/vb1.png">
+<img src="img/vb2.png">
+<img src="img/vb3.png">
 
 **Screenshot(s):**
 
@@ -48,11 +52,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Romi           | Tim                | Yas-lin      | Tugce     |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| centeren met   | JS filter          | logo, content| sections onder   |
+| flexbox        | en witruimte       | verdelen en  | elkaar zetten    |
+| ...            | ...                | zoekfunctie  | ...              |
 
 ### Verslag van meeting
 
